@@ -20,6 +20,6 @@
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0072b1)](https://linkedin.com/in/m-umer-tariq)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-0072b1)](https://umertariq22.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000)](https://umertariq22.github.io)
 
 
